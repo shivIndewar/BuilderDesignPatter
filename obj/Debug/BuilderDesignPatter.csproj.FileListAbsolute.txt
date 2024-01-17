@@ -1,0 +1,7 @@
+C:\Users\shivprasad.indewar\Source\Repos\BuilderDesignPatter\BuilderDesignPatter\bin\Debug\BuilderDesignPatter.exe.config
+C:\Users\shivprasad.indewar\Source\Repos\BuilderDesignPatter\BuilderDesignPatter\bin\Debug\BuilderDesignPatter.exe
+C:\Users\shivprasad.indewar\Source\Repos\BuilderDesignPatter\BuilderDesignPatter\bin\Debug\BuilderDesignPatter.pdb
+C:\Users\shivprasad.indewar\Source\Repos\BuilderDesignPatter\BuilderDesignPatter\obj\Debug\BuilderDesignPatter.csproj.AssemblyReference.cache
+C:\Users\shivprasad.indewar\Source\Repos\BuilderDesignPatter\BuilderDesignPatter\obj\Debug\BuilderDesignPatter.csproj.CoreCompileInputs.cache
+C:\Users\shivprasad.indewar\Source\Repos\BuilderDesignPatter\BuilderDesignPatter\obj\Debug\BuilderDesignPatter.exe
+C:\Users\shivprasad.indewar\Source\Repos\BuilderDesignPatter\BuilderDesignPatter\obj\Debug\BuilderDesignPatter.pdb
